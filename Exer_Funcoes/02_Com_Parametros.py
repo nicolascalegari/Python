@@ -1,0 +1,5 @@
+def saudacao(nome):
+    print(f"Olá, {nome}!")
+
+saudacao("Nicolas")
+saudacao("Alexandre")
