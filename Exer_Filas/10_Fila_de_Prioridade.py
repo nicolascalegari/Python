@@ -18,4 +18,3 @@ while fila_prioridade:
 while fila_normal:
     pessoa = fila_normal.popleft()
     print("Atendendo normal:", pessoa)
-
